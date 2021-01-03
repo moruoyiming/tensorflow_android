@@ -1,0 +1,4 @@
+rootProject.name = "tensorflow_android"
+include ':app'
+include ':bert_qa'
+include ':digit_classifier'
