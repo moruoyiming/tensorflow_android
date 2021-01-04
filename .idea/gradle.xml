@@ -14,6 +14,11 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/bert_qa" />
             <option value="$PROJECT_DIR$/digit_classifier" />
+            <option value="$PROJECT_DIR$/gesture_classification" />
+            <option value="$PROJECT_DIR$/image_classification" />
+            <option value="$PROJECT_DIR$/lib_support" />
+            <option value="$PROJECT_DIR$/lib_task_api" />
+            <option value="$PROJECT_DIR$/models" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

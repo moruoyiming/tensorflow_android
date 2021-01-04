@@ -1,3 +1,8 @@
+include ':models'
+include ':lib_task_api'
+include ':lib_support'
+include ':image_classification'
+include ':gesture_classification'
 rootProject.name = "tensorflow_android"
 include ':app'
 include ':bert_qa'
