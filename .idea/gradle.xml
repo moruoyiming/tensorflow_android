@@ -18,12 +18,14 @@
             <option value="$PROJECT_DIR$/image_classification" />
             <option value="$PROJECT_DIR$/image_segmentation" />
             <option value="$PROJECT_DIR$/lib_interpreter" />
+            <option value="$PROJECT_DIR$/lib_posenet" />
             <option value="$PROJECT_DIR$/lib_support" />
             <option value="$PROJECT_DIR$/lib_task_api" />
             <option value="$PROJECT_DIR$/lib_utils" />
             <option value="$PROJECT_DIR$/model_personalization" />
             <option value="$PROJECT_DIR$/models" />
             <option value="$PROJECT_DIR$/object_detection" />
+            <option value="$PROJECT_DIR$/posenet" />
             <option value="$PROJECT_DIR$/transfer_api" />
           </set>
         </option>

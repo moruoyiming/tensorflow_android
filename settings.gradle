@@ -1,3 +1,5 @@
+include ':lib_posenet'
+include ':posenet'
 include ':object_detection'
 include ':transfer_api'
 include ':model_personalization'
