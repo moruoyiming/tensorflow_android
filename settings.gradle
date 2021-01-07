@@ -1,3 +1,4 @@
+include ':samrt_reply'
 include ':recommendation'
 include ':lib_posenet'
 include ':posenet'
