@@ -28,6 +28,7 @@
             <option value="$PROJECT_DIR$/posenet" />
             <option value="$PROJECT_DIR$/recommendation" />
             <option value="$PROJECT_DIR$/samrt_reply" />
+            <option value="$PROJECT_DIR$/sound_classification" />
             <option value="$PROJECT_DIR$/transfer_api" />
           </set>
         </option>
