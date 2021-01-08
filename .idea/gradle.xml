@@ -5,6 +5,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="testRunner" value="PLATFORM" />
+        <option name="disableWrapperSourceDistributionNotification" value="true" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="$USER_HOME$/develop/gradle-6.7.1-all/gradle-6.7.1" />
@@ -29,6 +30,10 @@
             <option value="$PROJECT_DIR$/recommendation" />
             <option value="$PROJECT_DIR$/samrt_reply" />
             <option value="$PROJECT_DIR$/sound_classification" />
+            <option value="$PROJECT_DIR$/speech_commands" />
+            <option value="$PROJECT_DIR$/style_transfer" />
+            <option value="$PROJECT_DIR$/super_resolution" />
+            <option value="$PROJECT_DIR$/text_classification" />
             <option value="$PROJECT_DIR$/transfer_api" />
           </set>
         </option>

@@ -1,3 +1,7 @@
+include ':speech_commands'
+include ':style_transfer'
+include ':super_resolution'
+include ':text_classification'
 include ':sound_classification'
 include ':samrt_reply'
 include ':recommendation'
